@@ -1,0 +1,17 @@
+html {
+  text-align:center;
+}
+
+.background {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.row {
+  border-radius:25px;
+  background: rgba(255, 255, 255, 0.4);
+}
+
+.info {
+  font-size: 36px;
+}
